@@ -1,7 +1,19 @@
 .App {
   text-align: center;
 }
-
+.main {
+  text-align: center;
+}
+.head{
+  background-color: aquamarine;
+  min-height: 20vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.head .h1{
+  text-align: center;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
